@@ -1,0 +1,20 @@
+{
+  "name": "the-lukang-blogs",
+  "version": "0.0.1",
+  "description": "blog note lukang",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "the-lukang-blog"
+  },
+  "keywords": [
+    "blog",
+    "note",
+    "lukang"
+  ],
+  "author": "lukang.liu@gmail.com",
+  "license": "ISC"
+}
